@@ -300,7 +300,7 @@ const Index = () => {
                     <Icon name="MessageCircle" className="text-accent" size={24} />
                   </div>
                   <div className="font-semibold mb-1">WhatsApp</div>
-                  <div className="text-muted-foreground">+7 (999) 123-45-67</div>
+                  <a href="https://wa.me/79226625819" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-accent transition-colors">+7 (922) 662-58-19</a>
                 </CardContent>
               </Card>
             </div>
