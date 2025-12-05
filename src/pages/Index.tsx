@@ -32,34 +32,34 @@ const Index = () => {
 
   const portfolio = [
     {
-      image: 'https://cdn.poehali.dev/projects/3da613c8-214f-4eb7-9378-c53b84cdc9bb/files/6ecd519f-308f-43a0-b21d-088730197125.jpg',
-      title: 'Корпоративное мероприятие',
+      image: 'https://cdn.poehali.dev/files/1aa7dd7b-8c2d-4160-9e97-c2c2ca1a28dc.jpg',
+      title: 'Ведущая на мероприятии',
       type: 'Корпоратив'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/3da613c8-214f-4eb7-9378-c53b84cdc9bb/files/812c4ac6-f50e-4670-b386-c171c04098bd.jpg',
-      title: 'Свадебное торжество',
-      type: 'Свадьба'
+      image: 'https://cdn.poehali.dev/files/86fc0a4a-7ace-4b01-b8c2-6b9f713d3593.jpg',
+      title: 'Масленица',
+      type: 'Народное гуляние'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/3da613c8-214f-4eb7-9378-c53b84cdc9bb/files/58a5b76b-14da-42ef-89e6-39f12853a94f.jpg',
-      title: 'День рождения',
-      type: 'Детский праздник'
+      image: 'https://cdn.poehali.dev/files/96e355a9-c02b-4a1e-b306-48329c19ed0a.jpg',
+      title: 'Детский праздник',
+      type: 'День рождения'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/3da613c8-214f-4eb7-9378-c53b84cdc9bb/files/6ecd519f-308f-43a0-b21d-088730197125.jpg',
-      title: 'Юбилей компании',
-      type: 'Торжество'
+      image: 'https://cdn.poehali.dev/files/29d668c9-7ef7-4ea2-ba21-bf903f2c528d.jpg',
+      title: 'Корпоративный праздник',
+      type: 'Корпоратив'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/3da613c8-214f-4eb7-9378-c53b84cdc9bb/files/812c4ac6-f50e-4670-b386-c171c04098bd.jpg',
-      title: 'Открытие проекта',
-      type: 'Официальное мероприятие'
+      image: 'https://cdn.poehali.dev/files/1aa7dd7b-8c2d-4160-9e97-c2c2ca1a28dc.jpg',
+      title: 'Выступление ведущей',
+      type: 'Мероприятие'
     },
     {
-      image: 'https://cdn.poehali.dev/projects/3da613c8-214f-4eb7-9378-c53b84cdc9bb/files/58a5b76b-14da-42ef-89e6-39f12853a94f.jpg',
-      title: 'Семейное торжество',
-      type: 'Праздник'
+      image: 'https://cdn.poehali.dev/files/86fc0a4a-7ace-4b01-b8c2-6b9f713d3593.jpg',
+      title: 'Народный праздник',
+      type: 'Гуляние'
     }
   ];
 
