@@ -288,10 +288,10 @@ const Index = () => {
               <Card className="hover-scale">
                 <CardContent className="pt-6 text-center">
                   <div className="w-12 h-12 bg-secondary/10 rounded-full flex items-center justify-center mx-auto mb-3">
-                    <Icon name="Mail" className="text-secondary" size={24} />
+                    <Icon name="Users" className="text-secondary" size={24} />
                   </div>
-                  <div className="font-semibold mb-1">Email</div>
-                  <div className="text-muted-foreground">host@example.com</div>
+                  <div className="font-semibold mb-1">ВКонтакте</div>
+                  <a href="https://vk.com/lyutina_prazdnik" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-secondary transition-colors">lyutina_prazdnik</a>
                 </CardContent>
               </Card>
               <Card className="hover-scale">
