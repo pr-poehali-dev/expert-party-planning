@@ -143,7 +143,7 @@ const Index = () => {
             </div>
             <div className="animate-slide-up">
               <img
-                src="https://cdn.poehali.dev/projects/3da613c8-214f-4eb7-9378-c53b84cdc9bb/files/6e392df2-062d-438e-b9b1-420d81ae01de.jpg"
+                src="https://cdn.poehali.dev/files/e8ebccd1-e666-4e59-90e4-69258ae6c18e.jpg"
                 alt="Ведущая праздников"
                 className="rounded-2xl shadow-2xl hover-scale"
               />
