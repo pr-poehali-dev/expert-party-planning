@@ -57,9 +57,9 @@ const Index = () => {
       type: 'Свадьба'
     },
     {
-      image: 'https://cdn.poehali.dev/files/86fc0a4a-7ace-4b01-b8c2-6b9f713d3593.jpg',
-      title: 'Народный праздник',
-      type: 'Гуляние'
+      image: 'https://cdn.poehali.dev/files/f515c412-a6bd-4186-a6be-3279c34b7f65.jpg',
+      title: 'Корпоративный тимбилдинг',
+      type: 'Корпоратив'
     }
   ];
 
