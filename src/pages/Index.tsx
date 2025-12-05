@@ -52,9 +52,9 @@ const Index = () => {
       type: 'Корпоратив'
     },
     {
-      image: 'https://cdn.poehali.dev/files/1aa7dd7b-8c2d-4160-9e97-c2c2ca1a28dc.jpg',
-      title: 'Выступление ведущей',
-      type: 'Мероприятие'
+      image: 'https://cdn.poehali.dev/files/03e1d49c-9058-4047-bf31-2120f5eade10.jpg',
+      title: 'Свадебное торжество',
+      type: 'Свадьба'
     },
     {
       image: 'https://cdn.poehali.dev/files/86fc0a4a-7ace-4b01-b8c2-6b9f713d3593.jpg',
